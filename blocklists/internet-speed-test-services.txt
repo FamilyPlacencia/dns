@@ -1,0 +1,40 @@
+! ==================================================
+! INTERNET SPEED TEST SERVICES
+! ==================================================
+
+! DOMAIN RULES
+||speedtest.net^
+||www.speedtest.net^
+||ookla.com^
+||fast.com^
+||speed.cloudflare.com^
+||speed.measurementlab.net^
+||measurementlab.net^
+||testmy.net^
+||speedof.me^
+||nperf.com^
+||openspeedtest.com^
+||internethealthtest.org^
+||internet-speed-test.com^
+||speedtest.xfinity.com^
+||speedtest.googlefiber.net^
+||speedtest.att.com^
+||speedtest.frontier.com^
+||speedtest.centurylink.com^
+||speedtest.spectrum.com^
+||speedtest.optimum.com^
+||speedtest.verizon.com^
+||pingtest.net^
+||ping.pe^
+
+! URL PATTERN RULES
+/speedtest/
+/speed-test/
+/speed_test/
+/bandwidthtest/
+/bandwidth-test/
+/bandwidth_test/
+/internetspeed/
+/internet-speed/
+/internettest/
+/internet-test/
