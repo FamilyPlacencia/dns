@@ -1,0 +1,40 @@
+! ==================================================
+! APPLE ICLOUD PRIVATE RELAY
+! ==================================================
+
+! DOMAIN RULES
+||mask.apple-dns.net^
+||africa-mask.wrr.mask.apple-dns.net^
+||apac-mask.wrr.mask.apple-dns.net^
+||canary.mask.apple-dns.net^
+||emea-mask.wrr.mask.apple-dns.net^
+||north-america-mask.wrr.mask.apple-dns.net^
+||south-america-mask.wrr.mask.apple-dns.net^
+||wrr.mask.apple-dns.net^
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||mask-boot.icloud.com^
+||mask-canary.icloud.com^
+||mask.apple.com^
+||mask-private-replay.apple.com^
+||mask-t.apple-dns.net^
+||mask-api.icloud.com^
+||mask-api.fe.apple-dns.net^
+||mask-api.fe2.apple-dns.net^
+||relay.apple-dns.net^
+||appleproxy.com^
+||proxy.gslb.apple.com^
+||p13n-relay.apple.com^
+||gsp85-ssl.Is.apple.com^
+
+! APPLE DNS-OVER-HTTPS
+||doh.dns.apple.com^
+||doh.dns.apple.com.v.aaplimg.com^
+
+! APPLE INTELLIGENCE AND SIRI RELATED RELAYS
+||apple-relay.akamaized.net^
+||apple-relay.apple.com^
+||apple-relay.cloudflare.com^
+||apple-relay.fastly-edge.com^
+||apple-relay.mask.apple-dns.net^
+||apple-carry-relay.cloudflare.com^
