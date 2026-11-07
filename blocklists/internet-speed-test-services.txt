@@ -31,6 +31,7 @@
 /speedtest/
 /speed-test/
 /speed_test/
+/speed/
 /bandwidthtest/
 /bandwidth-test/
 /bandwidth_test/
