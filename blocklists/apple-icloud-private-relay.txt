@@ -3,6 +3,7 @@
 ! ==================================================
 
 ! DOMAIN RULES
+||fastly.net^
 ||mask.apple-dns.net^
 ||africa-mask.wrr.mask.apple-dns.net^
 ||apac-mask.wrr.mask.apple-dns.net^
