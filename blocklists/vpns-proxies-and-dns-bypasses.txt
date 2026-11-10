@@ -1324,9 +1324,6 @@
 ||study.wiki-edu.xyz.cdn.cloudflare.net^
 ||brunycraft.xyz.cdn.cloudflare.net^
 ||mathematicsedu.xyz.cdn.cloudflare.net^
-||dns.cloudflare.com^
-||api.cloudflareclient.com^
-||cloudflareportal.com^
 ||d101vabyweqq2v.cloudfront.net^
 ||d1030frha4pi98.cloudfront.net^
 ||d10zu8ijzdhnhd.cloudfront.net^
